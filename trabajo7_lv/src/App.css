@@ -1,0 +1,18 @@
+.conteiner{
+  text-align: center;
+  padding-top: 10%;
+  
+}
+p{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgba(183, 131, 231, 0.897);
+  margin-left: 45%;
+margin-right: 45%;
+border-radius: 10px;
+box-shadow: 2px 3px 2px rgb(175, 172, 172);
+}
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xx-large;
+  color: rgb(44, 43, 43);
+}
