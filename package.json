@@ -1,4 +1,5 @@
 {
+  "homepage": "subiendomihosting-tp8.web.app",
   "dependencies": {
     "primeicons": "^6.0.1",
     "primereact": "^9.2.3"
